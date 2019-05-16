@@ -1,0 +1,5 @@
+---
+applications:
+ - name: fb-webhook
+   random-route: true
+   memory: 64M
